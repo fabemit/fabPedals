@@ -42,16 +42,16 @@ All that, without contributing anything to this project.
 
 
 # Assembly steps
-1. Order of PCB --> [here](PcbOrder)
+1. Hall Sensor PCB --> [here](PcbOrder)
 2. Mechanical assembly --> [here](MechanicalAssembly)
-3. Electronical assembly --> [here](Soldering)
+3. Electronic assembly --> [here](Soldering)
 4. Software finalization --> [here](FinalizingSoftware).
 
 # Hardware features
-For the interessted reader, some deeper analysis can be found [here](Features).
+
 
 # BOM
-The price of one pedal was about 250€. The BOM can be found [here](BOM).
+The price of one pedal was about $150. The BOM can be found [here](BOM).
 
 ## Star History
 <a href="https://star-history.com/#ChrGri/DIY-Sim-Racing-FFB-Pedal&ChrGri/DIY-Sim-Racing-FFB-Pedal-Mechanical-Design&Date">
