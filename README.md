@@ -16,11 +16,8 @@ We :heart: doing research. New hardware (e.g. oscilloscopes, logic analysers, se
 
 Dev | fabemit | 
 --- | --- |
-Buy me a coffee | <a href="https://www.buymeacoffee.com/Captainchris"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> | 
-Ko-fi | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/captainchris88) |
-
-
-
+Buy me a coffee | <a href="https://www.buymeacoffee.com/fabemit"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> | 
+Ko-fi | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fabemit) |
 
 # License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -52,11 +49,6 @@ All that, without contributing anything to this project.
 
 # BOM
 The price of one pedal was about $150. The BOM can be found [here](BOM).
-
-## Star History
-<a href="https://star-history.com/#ChrGri/DIY-Sim-Racing-FFB-Pedal&ChrGri/DIY-Sim-Racing-FFB-Pedal-Mechanical-Design&Date">
-  <img src="https://api.star-history.com/svg?repos=ChrGri/DIY-Sim-Racing-FFB-Pedal,ChrGri/DIY-Sim-Racing-FFB-Pedal-Mechanical-Design&type=Date" alt="Star History Chart" width="400">
-</a>
 
 
 
