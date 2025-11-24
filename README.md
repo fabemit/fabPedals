@@ -27,28 +27,9 @@ This work is licensed under a
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-The reason for that license selection is that at some point in time, individuals start
-- to steal the sources and binaries and sell them on the internet
-- mass production of FFB pedals in their living rooms to make money by taking parts from this project and Simucubes design files.
-  
-All that, without contributing anything to this project.
-
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-
-# Assembly steps
-1. Hall Sensor PCB --> [here](PcbOrder)
-2. Mechanical assembly --> [here](MechanicalAssembly)
-3. Electronic assembly --> [here](Soldering)
-4. Software finalization --> [here](FinalizingSoftware).
-
-# Hardware features
-
-
-# BOM
-The price of one pedal was about $150. The BOM can be found [here](BOM).
 
 
 
