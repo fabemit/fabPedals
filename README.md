@@ -60,7 +60,7 @@ We encourage community collaboration to make this product even better.
 
 ## About fabemit
 
-<img src="https://github.com/fabemit/fabPedals/blob/main/images/fabemit_Logo.png" width="200" alt="fe-logo" align="left">
+<img src="https://github.com/fabemit/fabPedals/blob/main/images/fabemit_Logo.png" width="200" alt="fe-logo">
 
 [fabemit for Makers](https://fabemit.com) enjoys designing and manufacturing electronic products and projects tailored for enthusiasts, ranging from hobbyists to professionals. Our portfolio includes electronic boards, sensors, hobby equipment and generally anything that I am interested in. Every project we offer is designed in-house and built upon open-source hardware and software platforms.
 
