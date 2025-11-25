@@ -2,7 +2,7 @@
 
 ## About the Project
 
-| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabPedals/blob/main/images/fabOPedal.png) |
+| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabPedals/blob/main/images/fabPedals.png) |
 | :----------------------------------------------------------: |
 
 fabPedals is a project I created for my custom sim racing pedals. fabPedals are based on a few different design ideas while trying to still use easy to get of the shelf componenets.
