@@ -1,6 +1,6 @@
 # fabPedals 
 
-## About the Product
+## About the Project
 
 | ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabPedals/blob/main/images/fabPedals.png) |
 | :----------------------------------------------------------: |
@@ -11,9 +11,9 @@ Sim Racing Pedals. This is my design for a robust set of 3D printed Sim Racing p
 
 ## Repository Contents
 
-This repository contains all design files for Hall effect sensor breakout with analog output, organized as follows:
+This repository contains all design files for the active fabPedal as follows:
 
-- **`CAD` folder**: Contains KiCAD design files, including:
+- **`CAD` folder**: Contains CAD design files, including:
   - 3D `.stl` files of the parts
   - Source 3D files in Fusion360, if any
   - All files are sorted by version with a detailed change log.
