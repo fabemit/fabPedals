@@ -39,8 +39,6 @@ Beyond the repository, explore the following resources:
 
 ### fabemit Community
 
-<img src="" width="300" alt="fe-logo" align="left">
-
 fabemit Community is your go-to place for technical support. I try to track all questions posted there, and it’s a great space for the maker community. Get answers to your questions and solutions for our projects at the [fabemit Community](https://forum.fabemit.com/).
 
 ### fabemit Discord
@@ -62,7 +60,7 @@ We encourage community collaboration to make this product even better.
 
 ## About fabemit
 
-<img src="" alt="fe-logo" width="500"/>
+<img src="https://github.com/fabemit/fabPedals/blob/main/images/fabemit_Logo.png" width="200" alt="fe-logo" align="left">
 
 [fabemit for Makers](https://fabemit.com) enjoys designing and manufacturing electronic products and projects tailored for enthusiasts, ranging from hobbyists to professionals. Our portfolio includes electronic boards, sensors, hobby equipment and generally anything that I am interested in. Every project we offer is designed in-house and built upon open-source hardware and software platforms.
 
