@@ -2,7 +2,7 @@
 
 ## About the Product
 
-| ![fabpedals sim racing pedals Image](https://solde.red/333079/image) |
+| ![fabpedals sim racing pedals Image]() |
 | :----------------------------------------------------------: |
 
 Sim Racing Pedals. This is my design for a robust set of 3D printed Sim Racing pedals that hopefully shouldn't break the bank.
@@ -39,7 +39,7 @@ Beyond the repository, explore the following resources:
 
 ### fabemit Community
 
-<img src="https://github.com/SolderedElectronics/Soldered-Resources-Repo/blob/main/images/Soldered%20Community%20Logo.png?raw=true" width="300" alt="fe-logo" align="left">
+<img src="" width="300" alt="fe-logo" align="left">
 
 fabemit Community is your go-to place for technical support. I try to track all questions posted there, and it’s a great space for the maker community. Get answers to your questions and solutions for our projects at the [fabemit Community](https://forum.fabemit.com/).
 
@@ -62,7 +62,7 @@ We encourage community collaboration to make this product even better.
 
 ## About fabemit
 
-<img src="https://github.com/SolderedElectronics/Soldered-Resources-Repo/blob/main/images/Soldered-logo-color.png?raw=true" alt="fe-logo" width="500"/>
+<img src="" alt="fe-logo" width="500"/>
 
 [fabemit for Makers](https://fabemit.com) enjoys designing and manufacturing electronic products and projects tailored for enthusiasts, ranging from hobbyists to professionals. Our portfolio includes electronic boards, sensors, hobby equipment and generally anything that I am interested in. Every project we offer is designed in-house and built upon open-source hardware and software platforms.
 
