@@ -14,18 +14,12 @@ Sim Racing Pedals. This is my design for a robust set of 3D printed Sim Racing p
 This repository contains all design files for Hall effect sensor breakout with analog output, organized as follows:
 
 - **`CAD` folder**: Contains KiCAD design files, including:
-  - Schematics
-  - PCB layout
-  - Panel PCB layout
-  - 3D `.step` file of the board
+  - 3D `.stl` files of the parts
   - Source 3D files in Fusion360, if any
   - All files are sorted by version with a detailed change log.
 - **`FIRMWARE` folder**: Includes all source files, such as:
   - Arduino sketches
   - Instructions for use
-- **`BOM` folder**: Includes all production-ready files, such as:
-  - Bill of Materials (BOM) and interactive BOM (iBOM)
-  - Compliance, legal and generic sales documents
 - **`IMAGES` folder**: Includes files, such as:
   - Product image(s)
 
@@ -36,6 +30,12 @@ Refer to the `Change Log` in the CAD folder for details about updates between ve
 ## Learn More About the Product
 
 Beyond the repository, explore the following resources:
+
+### fabPedal Build Guide
+
+The full list of materials (BOM), Mechanical and Electrical build guides, Software and Firmware installation etc.. can all be found here.
+
+[fabPedal Docs](https://docs.fabemit.com/).
 
 ### fabemit Community
 
