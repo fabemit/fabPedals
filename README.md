@@ -11,9 +11,9 @@ fabOS is a simple pedal manager application that I created for my custom sim rac
 
 ## Repository Contents
 
-This repository contains all design files for Hall effect sensor breakout with analog output, organized as follows:
+This repository contains all design files for the active fabPedal as follows:
 
-- **`BUILD` folder**: Contains CAD design files, including:
+- **`CAD` folder**: Contains KiCAD design files, including:
   - 3D `.stl` files of the parts
   - Source 3D files in Fusion360, if any
   - All files are sorted by version with a detailed change log.
