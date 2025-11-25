@@ -1,11 +1,11 @@
-# fabOS
+# fabPedals
 
 ## About the Project
 
-| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabOS/blob/main/images/fabOS-home.png) |
+| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabPedals/blob/main/images/fabOPedal.png) |
 | :----------------------------------------------------------: |
 
-fabOS is a simple pedal manager application that I created for my custom sim racing pedal project [fabPedals](https://github.com/fabemit/fabPedals). fabOS provides aneasy way to calibrate the pedals, create and save custom profiles for different pedal settings etc..
+fabPedals is a project I created for my custom sim racing pedals. fabPedals are based on a few different design ideas while trying to still use easy to get of the shelf componenets.
 
 ---
 
@@ -17,10 +17,7 @@ This repository contains all design files for the active fabPedal as follows:
   - 3D `.stl` files of the parts
   - Source 3D files in Fusion360, if any
   - All files are sorted by version with a detailed change log.
-- **`DIST` folder**: Includes all source files, such as:
-  - Arduino sketches
-  - Instructions for use
-- **`fabOS` folder**: Includes all source files, such as:
+- **`firmware` folder**: Includes all source files, such as:
   - Arduino sketches
   - Instructions for use
 - **`IMAGES` folder**: Includes files, such as:
@@ -30,7 +27,7 @@ Refer to the `Change Log` in the CAD folder for details about updates between ve
 
 ---
 
-## Learn More About the Product
+## Learn More About the Project
 
 Beyond the repository, explore the following resources:
 
