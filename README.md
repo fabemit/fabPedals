@@ -75,7 +75,7 @@ We :heart: doing research. New hardware (e.g. oscilloscopes, logic analysers, se
 
 Dev | fabemit | 
 --- | --- |
-Buy me a coffee | <a href="https://www.buymeacoffee.com/fabemit"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> | 
+Buy me a coffee | <a href="https://www.buymeacoffee.com/fabemitu"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> | 
 Ko-fi | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fabemit) |
 
 ---
