@@ -1,11 +1,11 @@
-# fabPedals 
+# fabOS
 
-## About the Product
+## About the Project
 
-| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabPedals/blob/main/images/fabPedals.png) |
+| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabOS/blob/main/images/fabOS-home.png) |
 | :----------------------------------------------------------: |
 
-Sim Racing Pedals. This is my design for a robust set of 3D printed Sim Racing pedals that hopefully shouldn't break the bank.
+fabOS is a simple pedal manager application that I created for my custom sim racing pedal project [fabPedals](https://github.com/fabemit/fabPedals). fabOS provides aneasy way to calibrate the pedals, create and save custom profiles for different pedal settings etc..
 
 ---
 
@@ -13,11 +13,14 @@ Sim Racing Pedals. This is my design for a robust set of 3D printed Sim Racing p
 
 This repository contains all design files for Hall effect sensor breakout with analog output, organized as follows:
 
-- **`CAD` folder**: Contains KiCAD design files, including:
+- **`BUILD` folder**: Contains CAD design files, including:
   - 3D `.stl` files of the parts
   - Source 3D files in Fusion360, if any
   - All files are sorted by version with a detailed change log.
-- **`FIRMWARE` folder**: Includes all source files, such as:
+- **`DIST` folder**: Includes all source files, such as:
+  - Arduino sketches
+  - Instructions for use
+- **`fabOS` folder**: Includes all source files, such as:
   - Arduino sketches
   - Instructions for use
 - **`IMAGES` folder**: Includes files, such as:
