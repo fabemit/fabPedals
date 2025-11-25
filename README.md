@@ -2,7 +2,7 @@
 
 ## About the Product
 
-| ![fabpedals sim racing pedals Image]() |
+| ![fabpedals sim racing pedals Image](https://github.com/fabemit/fabPedals/blob/main/images/fabPedals.png) |
 | :----------------------------------------------------------: |
 
 Sim Racing Pedals. This is my design for a robust set of 3D printed Sim Racing pedals that hopefully shouldn't break the bank.
