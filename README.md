@@ -4,7 +4,7 @@
 
 ## About the Project
 
-| ![fabPedals sim racing pedals](https://github.com/fabemit/fabPedals/blob/main/images/fabPedals.png) |
+| ![fabPedals sim racing pedals](https://github.com/thisoldscot/fabPedals/blob/main/images/fabPedals.png) |
 | :--------------------------------------------------------------------------------------------------: |
 
 fabPedals is a project for custom sim-racing pedals. The design draws on a few
@@ -63,7 +63,7 @@ We encourage community collaboration to make this project even better.
 
 ## About ThisOldScot
 
-<img src="https://github.com/fabemit/fabPedals/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
+<img src="https://github.com/thisoldscot/fabPedals/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
 
 [ThisOldScot](https://thisoldscot.com) enjoys designing and making electronic
 products and projects for enthusiasts, from hobbyists to professionals — boards,
