@@ -1,13 +1,13 @@
-# fabPedals
+# Sim Pedals
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## About the Project
 
-| ![fabPedals sim racing pedals](https://github.com/thisoldscot/fabPedals/blob/main/images/fabPedals.png) |
+| ![Sim Pedals sim racing pedals](https://github.com/thisoldscot/Sim_Pedals/blob/main/images/Sim_Pedals.png) |
 | :--------------------------------------------------------------------------------------------------: |
 
-fabPedals is a project for custom sim-racing pedals. The design draws on a few
+Sim Pedals is a project for custom sim-racing pedals. The design draws on a few
 different ideas while sticking to easy-to-source, off-the-shelf components, and
 ships with the CAD, firmware, and wiring needed to build your own set.
 
@@ -15,7 +15,7 @@ ships with the CAD, firmware, and wiring needed to build your own set.
 
 ## Repository Contents
 
-This repository contains all design files for the active fabPedal as follows:
+This repository contains all design files for Sim Pedals as follows:
 
 - **`cad/`** — KiCad design files, 3D `.stl` parts, and Fusion 360 sources (where
   available), sorted by version with a detailed change log.
@@ -30,7 +30,7 @@ versions.
 
 ## Learn More
 
-### fabPedal Build Guide
+### Sim Pedals Build Guide
 
 The full bill of materials (BOM), mechanical and electrical build guides, and
 software/firmware installation can be found here:
@@ -63,7 +63,7 @@ We encourage community collaboration to make this project even better.
 
 ## About ThisOldScot
 
-<img src="https://github.com/thisoldscot/fabPedals/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
+<img src="https://github.com/thisoldscot/Sim_Pedals/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
 
 [ThisOldScot](https://thisoldscot.com) enjoys designing and making electronic
 products and projects for enthusiasts, from hobbyists to professionals — boards,
